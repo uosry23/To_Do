@@ -2,10 +2,11 @@ body {
   width: 100%;
   height: 100vh;
   background-color: red;
+  color:red;
 }
 .style {
   font-family: "Reem Kufi", sans-serif;
-  color: black;
+  color: rgb(154, 154, 153);
   border-radius: 10px;
   font-size: 30px;
   font-weight: 200;
